@@ -1,0 +1,8 @@
+# USANDO UN PAQUETE
+# from animales.aves import Pinguino
+from animales import Pinguino, mi_jaguar
+
+pinguino = Pinguino()
+pinguino.nadar()
+
+mi_jaguar.cazar()
